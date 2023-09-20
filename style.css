@@ -1,6 +1,14 @@
 .body
-
-header {background-color: blue;
-color: aquamarine;
+{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
 }
-.cabeçalho-titulo {}
+.cabeçalho
+{
+    background-color: rgb(102, 157, 157);
+    color: rgb(7, 8, 7);
+}
+.cabeçalho-titulo {
+
